@@ -19,8 +19,8 @@
 - [x] Create and Run Task
 	✅ Set up development server
 
-- [ ] Launch the Project
-	Test proxy functionality
+- [x] Launch the Project
+	✅ Test proxy functionality
 
-- [ ] Ensure Documentation is Complete
-	Update README and documentation
+- [x] Ensure Documentation is Complete
+	✅ Update README and documentation

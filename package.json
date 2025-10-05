@@ -16,6 +16,9 @@
   ],
   "author": "Back9 Team",
   "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {},
   "devDependencies": {
     "vercel": "^32.0.0"
