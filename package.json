@@ -1,0 +1,25 @@
+{
+  "name": "ticket-proxy-b9",
+  "version": "1.0.0",
+  "description": "Proxy CORS para consultar detalles de tickets de la API de Back9",
+  "main": "api/ticket.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "proxy",
+    "cors",
+    "vercel",
+    "api",
+    "ticket",
+    "back9"
+  ],
+  "author": "Back9 Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
