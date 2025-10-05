@@ -1,9 +1,4 @@
 {
   "version": 2,
-  "name": "ticket-proxy-b9",
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "@vercel/node@3.0.0"
-    }
-  }
+  "name": "ticket-proxy-b9"
 }

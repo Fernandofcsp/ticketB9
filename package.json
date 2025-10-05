@@ -17,7 +17,7 @@
   "author": "Back9 Team",
   "license": "MIT",
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "dependencies": {},
   "devDependencies": {
